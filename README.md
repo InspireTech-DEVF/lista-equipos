@@ -2,6 +2,4 @@
 
 texto ejemplo
 
-texto de la rama 1
-
-texto rama arga
+texto de la rama
